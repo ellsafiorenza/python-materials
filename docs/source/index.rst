@@ -24,4 +24,4 @@ Contents
 Testing
 =======
 
-**Hello this is bold !** *and this is itallic.* I also want to try `this` and $x$ this.
+**Hello this is bold !** *and this is itallic.* I also want to try `this` and \$x$\ this.
