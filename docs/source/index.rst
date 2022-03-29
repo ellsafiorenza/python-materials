@@ -20,3 +20,8 @@ Contents
 
    usage
    api
+   
+Testing
+=======
+
+**Hello this is bold !** *and this is itallic.* I also want to try `this` and $x$ this.
