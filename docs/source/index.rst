@@ -12,27 +12,19 @@ and offers a *simple* and *intuitive* API.
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
+   
+Introduction to Programming
+===========================
+
+In this module, we will discuss programming using python in :guilabel:`Jupyter Notebook`. For the next 6 weeks, we will cover the basic understanding using python and the technique to solve a problem.
+
 .. note::
 
-   This project is under active development.
+   This module is under active development. Please refresh the page daily to get the latest publication.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
-   
-Python documentation for learning purposes only
-===============================================
-
-In this module, we will discuss programming using python in jupyter notebook. We will also discuss the installation process for python and the usage of anaconda further.
-
-Contents
---------
-
-.. toctree::
-
-   What is python?
-   Getting started with python
+   Basic Python Implementation
