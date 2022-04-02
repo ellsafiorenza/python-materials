@@ -18,7 +18,10 @@ Python can act as you own calculator by analyzing basic mathematical equations s
 1.1.1 Addition
 ~~~~~~~~~~~~~~
 
-replace
+>>> 1 + 1
+2
+>>> 100 + 50 + 25 + 20 + 5
+200
 
 1.1.2 Substraction
 ~~~~~~~~~~~~~~~~~~
