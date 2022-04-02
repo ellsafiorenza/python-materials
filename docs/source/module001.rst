@@ -22,11 +22,21 @@ Python can act as you own calculator by analyzing basic mathematical equations s
 2
 >>> 100 + 50 + 25 + 20 + 5
 200
+>>> (-101) + 2
+-99
+
+..note::
+    We can add `negative` number with `positive` number. This will be similar to subtraction. 
 
 1.1.2 Substraction
 ~~~~~~~~~~~~~~~~~~
 
-replace
+>>> 1 - 1
+0
+>>> 100 - 50 - 10 
+40
+>>> 2 - 100
+-99
 
 1.1.3 Multiplication
 ~~~~~~~~~~~~~~~~~~~~
