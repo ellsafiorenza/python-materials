@@ -12,4 +12,4 @@ Contents
 
 .. toctree::
 
-   module-1
+   module001
