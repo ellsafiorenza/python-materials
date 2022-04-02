@@ -25,7 +25,8 @@ Python can act as you own calculator by analyzing basic mathematical equations s
 >>> (-101) + 2
 -99
 
-..note::
+.. note::
+
     We can add `negative` number with `positive` number. This will be similar to subtraction. 
 
 1.1.2 Substraction
@@ -38,20 +39,43 @@ Python can act as you own calculator by analyzing basic mathematical equations s
 >>> 2 - 100
 -99
 
+.. note::
+
+    Subtracting a larger number to a smaller number will produce negative result.
+
 1.1.3 Multiplication
 ~~~~~~~~~~~~~~~~~~~~
 
-replace
+Multiplication in Python uses `asteric (*)`. 
+
+>>> 1 * 0
+0
+>>> 100 - 50 - 10 
+40
+>>> 2 - 100
+-99
 
 1.1.4 Division
 ~~~~~~~~~~~~~~
 
-replace
+>>> 1 / 1
+1
+>>> 100 / 3
+33.3333
+>>> 2/5
+0.4
     
 1.1.5 Modulo
 ~~~~~~~~~~~~
+
+Modulo is the reminder of a division.
     
-replace
+>>> 1 % 1
+0
+>>> 99 % 10
+9
+>>> 2 % 5
+2
 
 1.2 Variables
 -------------
