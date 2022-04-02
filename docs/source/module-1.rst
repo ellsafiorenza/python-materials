@@ -1,74 +1,81 @@
 1. Basic Introduction to Python
 ===============================
 
-<replace with something>
+How to code in Python?
+----------------------
+
+In this module, we will learn coding in :guilabel:`Jupyter Notebook` environment. 
+You can use free online resources such as `Google Colab <https://colab.research.google.com>`_ 
+or `DeepNote <https://deepnote.com>`_ to build python notebook. 
+However, if you prefer to use you local computer, you can access :guilabel:`Jupyter Notebook` 
+using `Anaconda <https://www.anaconda.com/>`_.
 
 1.1 Mathematical Equation
 -------------------------
 
-<replace with something>
+Python can act as you own calculator by analyzing basic mathematical equations such as addition, substraction, multiplication, division, and modulo.
 
 1.1.1 Addition
 ~~~~~~~~~~~~~~
 
-<replace with something>
+replace
 
 1.1.2 Substraction
 ~~~~~~~~~~~~~~~~~~
 
-<replace with something>
+replace
 
 1.1.3 Multiplication
 ~~~~~~~~~~~~~~~~~~~~
 
-<replace with something>
+replace
 
 1.1.4 Division
 ~~~~~~~~~~~~~~
 
-<replace with something>
+replace
     
 1.1.5 Modulo
 ~~~~~~~~~~~~
     
-<replace with something>
+replace
 
 1.2 Variables
 -------------
 
-<replace with something>
+replace
 
 1.2.1 
 ~~~~~
 
-<replace with something>
+replace
 
 1.2.2
 ~~~~~
 
-<replace with something>
+replace
 
 1.3 Basic Data Type
-  -------------------
+-------------------
 
-<replace with something>
+replace
 
 1.3.1 String
 ~~~~~~~~~~~~
 
-<replace with something>
+replace
 
 1.3.2 Integer
 ~~~~~~~~~~~~~
 
-<replace with something>
+replace
 
 1.3.3 Float
 ~~~~~~~~~~~
 
-<replace with something>
+replace
 
 1.3.4 Boolean
 ~~~~~~~~~~~~~
 
-<replace with something>
+replace
