@@ -1,6 +1,3 @@
-.. role:: raw-math(raw)
-    :format: latex html
-
 1. Basic Introduction to Python
 ===============================
 
@@ -72,7 +69,7 @@ Multiplication in Python uses `asteric (*)`.
 1.1.5 Modulo
 ~~~~~~~~~~~~
 
-Modulo is the reminder of a division. The equation is :raw-math:`$n = c * d + r$`, which means for a number :raw-math:`$n$`, 
+Modulo is the reminder of a division. The equation is `n = c * d + r`, which means for a number `n`, 
     
 >>> 1 % 1
 0
