@@ -13,7 +13,8 @@ using `Anaconda <https://www.anaconda.com/>`_.
 1.1 Mathematical Equation
 -------------------------
 
-Python can act as you own calculator by analyzing basic mathematical equations such as addition, substraction, multiplication, division, and modulo.
+Python can act as you own calculator by analyzing basic mathematical equations such as 
+addition, substraction, multiplication, division, and modulo.
 
 1.1.1 Addition
 ~~~~~~~~~~~~~~
@@ -68,7 +69,7 @@ Multiplication in Python uses `asteric (*)`.
 1.1.5 Modulo
 ~~~~~~~~~~~~
 
-Modulo is the reminder of a division.
+Modulo is the reminder of a division. The equation is :math: `n = c * d + r`, which means for a number :math: `n`, 
     
 >>> 1 % 1
 0
