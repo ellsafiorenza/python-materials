@@ -4,14 +4,16 @@
 How to code in Python?
 ----------------------
 
+**Will be moved to another file**
+
 In this module, we will learn coding in :guilabel:`Jupyter Notebook` environment. 
 You can use free online resources such as `Google Colab <https://colab.research.google.com>`_ 
 or `DeepNote <https://deepnote.com>`_ to build python notebook. 
 However, if you prefer to use you local computer, you can access :guilabel:`Jupyter Notebook` 
 using `Anaconda <https://www.anaconda.com/>`_.
 
-1.1 Mathematical Equation
--------------------------
+1.1 Mathematical Equation (Non-Library)
+---------------------------------------
 
 Python can act as you own calculator by analyzing basic mathematical equations such as 
 addition, substraction, multiplication, division, and modulo.
@@ -78,6 +80,14 @@ Modulo is the reminder of a division. The equation is `n = c * d + r`, which mea
 >>> 2 % 5
 2
 
+1.1.6 Exponential
+~~~~~~~~~~~~~~~~~
+
+>>> 10**2
+100
+>>> 100**(1/2)
+10
+
 1.2 Variables
 -------------
 
@@ -96,7 +106,7 @@ replace
 1.3 Basic Data Type
 -------------------
 
-replace
+There are X data type in Python, that is, String, Integer, Float, Boolean, xxx.
 
 1.3.1 String
 ~~~~~~~~~~~~
