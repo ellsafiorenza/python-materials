@@ -69,7 +69,7 @@ Multiplication in Python uses `asteric (*)`.
 1.1.5 Modulo
 ~~~~~~~~~~~~
 
-Modulo is the reminder of a division. The equation is :math: `n = c * d + r`, which means for a number :math: `n`, 
+Modulo is the reminder of a division. The equation is :math:`n = c * d + r`, which means for a number :math:`n`, 
     
 >>> 1 % 1
 0
