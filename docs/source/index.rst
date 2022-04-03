@@ -13,3 +13,5 @@ Contents
 .. toctree::
 
    module001
+   module002
+   module003
