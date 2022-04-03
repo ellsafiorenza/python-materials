@@ -1,3 +1,6 @@
+.. role:: raw-math(raw)
+    :format: latex html
+
 1. Basic Introduction to Python
 ===============================
 
