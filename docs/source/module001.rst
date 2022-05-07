@@ -12,6 +12,12 @@ or `DeepNote <https://deepnote.com>`_ to build python notebook.
 However, if you prefer to use you local computer, you can access :guilabel:`Jupyter Notebook` 
 using `Anaconda <https://www.anaconda.com/>`_.
 
+Expression
+----------
+
+Call Expression
+---------------
+
 1.1 Mathematical Equation (Non-Library)
 ---------------------------------------
 
@@ -88,20 +94,24 @@ Modulo is the reminder of a division. The equation is `n = c * d + r`, which mea
 >>> 100**(1/2)
 10
 
-1.2 Variables
--------------
+1.2 Variable Names
+------------------
 
-replace
+>>> year = 2022
+>>> year
+2022
+>>> my_name = "Jane Doe"
+>>> print(my_name)
+"Jane Doe"
+>>> my_name
+Jane Doe
 
-1.2.1 
-~~~~~
+From the example above, we can give a name to our value. To assign a value to variable name, we must use `=` (equal sign) in between the variable name and value that we want to store.
 
-replace
+.. note::
 
-1.2.2
-~~~~~
+    Be careful while naming your variable as it could affecting the built in function that python already provide us. For example, `max = 5` will change the purpose of built in `max` function and assign `5` as its value. 
 
-replace
 
 1.3 Basic Data Type
 -------------------
