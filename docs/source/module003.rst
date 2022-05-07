@@ -1,5 +1,5 @@
-Evaluating Boolean Expression
-=============================
+3. Evaluating Boolean Expression
+================================
 
 True / False
 ------------
