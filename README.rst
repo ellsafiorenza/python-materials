@@ -11,6 +11,8 @@ https://docs.readthedocs.io/en/stable/tutorial/
 Note: You need to install pip, python beforehand
 Steps to run program
 
+Running locally
+
 1. Create virtual environment for python
     run in terminal 
     '''
@@ -27,3 +29,17 @@ Steps to run program
     sphinx-build -b html docs/source/ docs/build/html
     '''
 4. Open docs/build/html/index.html in your browser.
+
+
+Running locally with .sh file
+
+1. Excecute permission by
+    '''
+        chmod +x htmlbuild.sh
+    '''
+2. Run command
+    '''
+        ./htmlbuild.sh
+    '''
+
+    
