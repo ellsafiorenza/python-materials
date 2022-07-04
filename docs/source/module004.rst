@@ -4,7 +4,9 @@
 4.1. Compound Statement
 -----------------------
 
-compound statements contain groups of other statements
+Compound statements contain groups of other statements. They affect the execution of those other statements. Compound statements consist of one or more 'clauses'. 
+
+
 
 4.2. Conditional Statement
 --------------------------
@@ -18,4 +20,20 @@ else:
 
 4.3 Loop Statement
 --------------------------
+
+Loop statements is used for repeated execution. There are two type of loop statement:
+
+- While statement
+
+While statement is used for repeated execution as long as an expression is true.
+
+while "condition":
+  "iterate to this body"
+
+- For statement
+
+For statement is used to iterate over the elements of a sequence. 
+
+For "target list" in "expression list":
+  "iterate to this body"
 
