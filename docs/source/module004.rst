@@ -37,3 +37,29 @@ For statement is used to iterate over the elements of a sequence.
 For "target list" in "expression list":
   "iterate to this body"
 
+
+4.4 Try Statement
+--------------------------
+
+Try statement sepcifies exception handlers in code. This statement will help you to debug your code. Try statement can be classified as:
+
+- try statement
+
+try:
+  "command"
+
+- try and excecute
+
+try:
+  "command"
+except:
+  "command"
+
+- try and finally 
+
+try:
+  "command"
+except:
+  "command"
+finally:
+  "command"
